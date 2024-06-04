@@ -1,4 +1,4 @@
-# 
+# Путь развития AppSec инженера
 ```mermaid
 %%{init: {'theme':'forest'}}%%
 mindmap
@@ -9,14 +9,23 @@ mindmap
       SCA
       SAST
       DAST
-      ASVS
       DevSecOps
+      Triage
+      Threats
+      Standards 
     Dev
+      Langs/Code
       Lifecycle
-      SCV
-      API
-      Tests
+      Architecture
+      Patterns
+      Workflows
     Ops
+      Pipeline
+      Containers
+      Runtime
+      Deploy
+      Operate
+      Monitoring
     Tools
       IDE
       git
