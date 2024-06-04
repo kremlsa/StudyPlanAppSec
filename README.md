@@ -4,8 +4,18 @@
 mindmap
   root((Appsec<br/>Engineer))
     Sec
+      OWASP 10
+      CWE/CVE
+      SCA
+      SAST
+      DAST
+      ASVS
+      DevSecOps
     Dev
-      
+      Lifecycle
+      SCV
+      API
+      Tests
     Ops
     Tools
       IDE
