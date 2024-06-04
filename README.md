@@ -19,6 +19,7 @@ mindmap
       Architecture
       Patterns
       Workflows
+      SQL
     Ops
       Pipeline
       Containers
@@ -34,4 +35,7 @@ mindmap
       Semgrep
       Trivy
       OWASP DC/DT
+      shell
+      docker
+      kubelet
 ```
