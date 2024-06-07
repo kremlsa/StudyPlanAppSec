@@ -41,7 +41,7 @@ mindmap
       kubelet
     Practice
       CTF
-      Portwsigger Ac
+      Portwsigger<br/>Academy
       JuiceShop
       DVWA
       API
