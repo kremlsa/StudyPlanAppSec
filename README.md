@@ -38,4 +38,9 @@ mindmap
       shell
       docker
       kubelet
-```
+    Practice
+      CTF
+      Portwsigger Ac
+      JuiceShop
+      DVWA
+      ```
