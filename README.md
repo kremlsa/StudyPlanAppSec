@@ -12,7 +12,8 @@ mindmap
       DevSecOps
       Triage
       Threats
-      Standards 
+      Standards
+      Cryptography
     Dev
       Langs/Code
       Lifecycle
@@ -43,4 +44,5 @@ mindmap
       Portwsigger Ac
       JuiceShop
       DVWA
+      API
 ```
